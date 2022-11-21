@@ -14,6 +14,7 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
+- I am an enthusiastic who loves to take up new challenges and learn new skills
 
 <br><br>
 
