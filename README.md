@@ -13,7 +13,7 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
+- A passionate Self-taught Web Developer
 - Currently learning Web Development by Self
 - I am an enthusiastic who loves to take up new challenges and learn new skills
 
