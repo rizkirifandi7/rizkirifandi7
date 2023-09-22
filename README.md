@@ -11,13 +11,12 @@
 
 
 
-<br>
 
 - A passionate Self-taught Web Developer
 - Currently learning Web Development by Self
 - I am an enthusiastic who loves to take up new challenges and learn new skills
 
-<br><br>
+<br>
 
 <h2> Skills</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -53,3 +52,4 @@
 
 </p>
 
+<br><br>
